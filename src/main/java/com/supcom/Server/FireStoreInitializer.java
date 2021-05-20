@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.io.InputStream;
 public class FireStoreInitializer {
     static private Firestore db;
-    static private final String AccountServicePath = "D:\\cours\\PROJECTS\\TS\\src\\main\\resources\\AccountService.json";
+    static private final String AccountServicePath = "D:\\Rabii Bouhelal\\Projects\\Home-Flavor-Server\\src\\main\\resources\\AccountService.json";
 
 
     public static void connect() throws IOException {
